@@ -1,0 +1,10 @@
+.NavBar {
+    display:flex;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+.NavBar > li > a {
+    color: black;
+    text-decoration: none;
+}
