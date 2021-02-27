@@ -1,0 +1,13 @@
+.Content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Content > span {
+    background-color: black;
+    border: solid white 5px;
+    color: white;
+    margin: 0px 0px 0px 0px;
+    padding: 200px 200px 200px 200px;
+}
