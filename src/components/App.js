@@ -4,6 +4,7 @@ import Content from './Content'
 import Social from './Social'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
+import About from './About'
 
 library.add(fab)
 
@@ -13,7 +14,7 @@ function App () {
             <Logo />
             <NavBar />
             <Social />
-            <Content />
+            <About />
         </div>
     );
 }

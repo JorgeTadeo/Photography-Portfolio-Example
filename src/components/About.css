@@ -1,0 +1,22 @@
+.About{
+    display: flex;
+    flex: wrap;
+    justify-content: space-around;
+    border: 5px solid black;
+}
+.center {
+    display: block;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box1{
+    border: 5px solid green;
+}
+
+.box2{
+    border: 5px solid red;
+}
+.Info {
+    text-align: center;
+}
