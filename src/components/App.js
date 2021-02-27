@@ -1,6 +1,8 @@
+import Logo from './Logo'
+
 function App () {
     return(
-    <p>hello</p>
+    <Logo />
     );
 }
 
