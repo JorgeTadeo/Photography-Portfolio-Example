@@ -9,6 +9,7 @@ import {
     Switch,
     Route,
   } from "react-router-dom";
+import LiveMusicPage from './LiveMusicPage'
 
 library.add(fab, faEnvelope)
 
@@ -25,6 +26,9 @@ function App () {
             </Route>
             <Route path="/landscapes">
               <LandscapesPage />
+            </Route>
+            <Route path="/live-music">
+              <LiveMusicPage />
             </Route>
             <Route path="/">
               <HomePage />

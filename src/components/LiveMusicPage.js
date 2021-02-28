@@ -1,17 +1,17 @@
 import Social from "./Social"
 import Logo from "./Logo"
 import NavBar from "./NavBar"
-import Content2 from "./Content2"
+import Content3 from "./Content3"
 
-function LandscapesPage() {
+function LiveMusicPage() {
     return(
         <div>
             <Logo />
             <NavBar />
             <Social />
-            <Content2 />
+            <Content3 />
         </div>
     );
 }
 
-export default LandscapesPage;
+export default LiveMusicPage;
