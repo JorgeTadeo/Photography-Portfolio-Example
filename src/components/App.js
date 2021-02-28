@@ -1,5 +1,4 @@
 import HomePage from './HomePage'
-import NavBar from './NavBar'
 import LandscapesPage from './LandscapesPage'
 import AboutPage from './AboutPage'
 import { library } from '@fortawesome/fontawesome-svg-core'
