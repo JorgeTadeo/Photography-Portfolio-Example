@@ -7,6 +7,7 @@ function Social () {
         <div className="Social">
             <FontAwesomeIcon className="facebook" icon={['fab', 'facebook-f']} size="lg" />
             <FontAwesomeIcon className="instagram" icon={['fab', 'instagram']} size="lg"/>
+            <FontAwesomeIcon icon="envelope"  size="lg" />
         </div>
     );
 }

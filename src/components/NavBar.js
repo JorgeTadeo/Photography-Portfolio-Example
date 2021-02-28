@@ -6,7 +6,6 @@ function NavBar() {
             <li><a href="#"> Portraits </a></li>
             <li><a href="#"> Landscapes </a></li>
             <li><a href="#"> About </a></li>
-            <li><a href="#"> Contact </a></li>
         </ul>
     );
 }
